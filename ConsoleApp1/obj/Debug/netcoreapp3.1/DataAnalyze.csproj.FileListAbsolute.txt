@@ -1,0 +1,13 @@
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataAnalyze.exe
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataAnalyze.deps.json
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataAnalyze.runtimeconfig.json
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataAnalyze.runtimeconfig.dev.json
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataAnalyze.dll
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataAnalyze.pdb
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataAnalyze.csprojAssemblyReference.cache
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataAnalyze.AssemblyInfoInputs.cache
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataAnalyze.AssemblyInfo.cs
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataAnalyze.csproj.CoreCompileInputs.cache
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataAnalyze.dll
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataAnalyze.pdb
+C:\Users\glshc\Desktop\Ccı\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataAnalyze.genruntimeconfig.cache
